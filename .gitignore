@@ -1,0 +1,7 @@
+/vendor/
+
+*.cache
+
+src/ip2nation.csv
+
+ip2nation.sqlite3

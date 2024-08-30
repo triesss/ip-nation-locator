@@ -1,0 +1,21 @@
+{
+    "name": "triesss/ip-nation-locator",
+    "description": "This package will provide the origin nation for a given ip address.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Triesss\\IpNationLocator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "alexander.frankenbusch@haw-hamburg.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "11.4.x-dev"
+    }
+}
